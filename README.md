@@ -1,10 +1,10 @@
 # Github Finder using ReactJs
 
 ![Alt text](https://github.com/didiamuri/github-finder/blob/master/screen.png) 
-<!-- 
+
 ## View the Demo
 
-[Demo](https://vc-idi-googlekeep.netlify.app/). -->
+[Demo](https://vc-idi-githubfinder.netlify.app/).
 
 
 # Getting Started with Create React App
