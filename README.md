@@ -1,4 +1,4 @@
-# Github Finder
+# Github Finder using ReactJs
 
 ![Alt text](https://github.com/didiamuri/github-finder/blob/master/screen.png) 
 <!-- 
